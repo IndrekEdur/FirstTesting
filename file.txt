@@ -1,1 +1,3 @@
 ga nyyd tegime uued muudatused mis kirjutasid eelmised üle
+
+lisame siia ühe uue eksperimentaalse funktsiooni
